@@ -1,6 +1,6 @@
 ## Template website undangan pernikahan sederhana
 
-##### Demo: https://HeSraOne.github.io/undangan-yadi/?to=Teman+teman+semua
+##### Demo: undangan-yadi.vercel.app
 
 ### Tech stack
 - Bootstrap 5.3.0
